@@ -5,6 +5,7 @@ This repository is to save commands most used.
 - `screen -ls` list all screens
 - `screen -r <id_screen>` attach to screen
 - `pwd` get current directory
+- `which <program_name>` see where program is located
 ### Memory check
 - `free -h` 
 - `htop`
